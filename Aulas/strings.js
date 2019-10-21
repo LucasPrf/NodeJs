@@ -15,4 +15,6 @@ console.log(escola.substring(0,9))
 
 console.log(escola.concat(' De Ipora'))
 
-//troca
+//split
+
+console.log(escola.split(' '))

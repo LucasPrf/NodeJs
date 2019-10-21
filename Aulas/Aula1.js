@@ -3,7 +3,7 @@ var app = express()
 
 app.listen(1412,function(req,res){
 
-	console.log("Listen")
+	console.log("Listen on port 1412")
 })
 
 app.get('/',function(req,res){
